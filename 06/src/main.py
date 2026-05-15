@@ -18,7 +18,6 @@ print("Matriz A: ")
 for item in A:
     print(f"{item[0]: .0f} {item[1]: .0f} {item[2]: .0f}")
 
-
 print("Matriz B: ")
 print(B)
 
